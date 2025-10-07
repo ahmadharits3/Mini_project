@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  justify-content: flex-end; /* geser semua isi ke kanan */
+  align-items: center;
+  background: #0d3d85;
+  padding: 10px 20px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 20px; /* jarak antar menu */
+  margin: 0;
+  padding: 0;
+}
